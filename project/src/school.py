@@ -1,4 +1,4 @@
-from store import store
+from src.store import store
 class School:
     def __init__(self, name = '', address = ''):
         pass
